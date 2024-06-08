@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUbYCnIKXTREfEcpmenSUoRsqPZubGPXMW47xdNgaD3usI+bK+fAqUDef0k/Fz/ogaSYTAYksbjm2sRcgWdGZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\ColumnReport\\ColumnReport\\ColumnReport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adghedy\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

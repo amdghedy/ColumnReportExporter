@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>ColumnReport</Name>
+		<FullClassName>ColumnReport.ColumnReport</FullClassName>
+		<Text>ColumnReport</Text>
+		<Description>Extracting column to Excel</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>ColumnReport.dll</Assembly>
+		<AddInId>61BA3332-7459-4303-8E32-644575D77C2B</AddInId>
+		<VendorId>Amdghedy</VendorId>
+		<VendorDescription>Abdelrahim Deghidy, BIM Manager, Revit Developer</VendorDescription>
+	</AddIn>
+</RevitAddIns>

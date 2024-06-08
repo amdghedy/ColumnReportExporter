@@ -1,0 +1,27 @@
+{
+  "ActiveSession": {
+    "events": [ ],
+    "id": 1717740189,
+    "session_desc": {
+      "locale": "en-US",
+      "location": null,
+      "network_info": null,
+      "session_type": 0,
+      "start_time": {
+        "server_time_offset": null,
+        "time_zone": 10800,
+        "timestamp": 1717740189
+      }
+    },
+    "EventCounter": 4,
+    "LastEventTimestamp": 1717740189,
+    "LastEventType": 8,
+    "LastUpdateTimestamp": 1717740189,
+    "ReportParameters": "app_id=e13487db-5891-4644-9e25-459654af7ce1&model=HP ZBook 17 G4&locale=en-US&os_version=10.0.19045.0&manufacturer=HP&app_platform=WindowsPhone&screen_dpi=0&scalefactor=1&screen_width=1920&screen_height=1080&analytics_sdk_version=351&api_key_128=0f990b93-4139-4735-9e40-c3bfece719f1&app_framework=native&device_type=desktop&analytics_sdk_build_number=246&analytics_sdk_build_type=net_desktop&app_build_number=-1&app_version_name=0.0"
+  },
+  "CompletedSessions": [ ],
+  "ForceSend": false,
+  "ReportPackages": [ ],
+  "ReportedEventsCount": 0,
+  "LastFlushTime": "\/Date(1717740191040)\/"
+}
